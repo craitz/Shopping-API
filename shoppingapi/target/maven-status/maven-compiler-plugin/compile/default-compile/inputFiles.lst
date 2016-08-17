@@ -1,0 +1,10 @@
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/repository/CategoriasProdutoRepository.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/repository/ProdutosRepository.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/handler/ResourceExceptionHandler.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/domain/Produto.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/ShoppingapiApplication.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/domain/CategoriaProduto.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/repository/ComprasRepository.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/domain/Compra.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/repository/SupermercadosRepository.java
+/home/craitz/Dev/workspaces-sts/api-rest/shoppingapi/src/main/java/com/camilo/shopping/domain/Supermercado.java

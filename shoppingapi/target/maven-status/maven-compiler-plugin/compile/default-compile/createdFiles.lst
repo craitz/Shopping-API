@@ -1,0 +1,10 @@
+com/camilo/shopping/domain/Supermercado.class
+com/camilo/shopping/repository/ComprasRepository.class
+com/camilo/shopping/repository/CategoriasProdutoRepository.class
+com/camilo/shopping/repository/SupermercadosRepository.class
+com/camilo/shopping/domain/Compra.class
+com/camilo/shopping/handler/ResourceExceptionHandler.class
+com/camilo/shopping/ShoppingapiApplication.class
+com/camilo/shopping/domain/CategoriaProduto.class
+com/camilo/shopping/repository/ProdutosRepository.class
+com/camilo/shopping/domain/Produto.class
